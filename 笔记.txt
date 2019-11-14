@@ -1,0 +1,10 @@
+安装pandas 
+pip install pandas
+工具-python-python交互窗口
+结果pip不是在Python环境 而是在命令行环境中运行的
+
+打印出的结果像是个矩阵
+python好像没有自动补全?
+print dir(data)可以查看data有哪些成员
+markdown 博客语言
+是因为里面的函数 所以没有自动补全
